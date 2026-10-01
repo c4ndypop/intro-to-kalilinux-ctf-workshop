@@ -17,7 +17,7 @@ Make sure to download the **Personal Use** version!
 - VMWare Workstation Pro : [ProductDownloads - Support Portal - Broadcom support portal](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)
 - VMWare Fusion (for Mac) : [ProductDownloads - Support Portal - Broadcom support portal](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Fusion)
 
-Example for Workstation Pro : *[screenshot]*
+Example for Workstation Pro : [VMWare Workstation Pro](
 
 ---
 
