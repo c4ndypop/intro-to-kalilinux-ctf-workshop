@@ -1,6 +1,6 @@
 # Kali Linux Setup
 
-Hello everyone! Here's a guide on how to get kali linux running on your laptop alongside windows (no need to remove your existing OS :) ). Feel free to reach out if you have any questions yeah!
+Hello everyone! Here's a guide on how to get kali linux running on your laptop alongside windows without removing your existing OS. Feel free to reach out if you have any question!
 
 ---
 
@@ -14,8 +14,8 @@ Make sure to download the **Personal Use** version!
 
 **Links:**
 
-- VMWare Workstation Pro : [ProductDownloads - Support Portal - Broadcom support portal](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)
-- VMWare Fusion (for Mac) : [ProductDownloads - Support Portal - Broadcom support portal](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Fusion)
+- VMWare Workstation Pro : [ProductDownloads - Support Portal - Broadcom support portal](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
+- VMWare Fusion (for Mac) : [ProductDownloads - Support Portal - Broadcom support portal](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Fusion&freeDownloads=true)
 
 Example for Workstation Pro : [VMWare Workstation Pro](
 
