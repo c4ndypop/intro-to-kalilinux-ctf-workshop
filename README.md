@@ -1,1 +1,1 @@
-# workshop-kali-linux-setup
+# Workshop Materials xD
