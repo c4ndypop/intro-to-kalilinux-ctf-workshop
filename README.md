@@ -8,7 +8,7 @@ This workshop is designed for beginners who want to get started with Linux, cybe
 
 ### Setup Instructions
 
-👉 [Follow the setup instructions](https://github.com/c4ndypop/workshop/blob/main/kali-linux-setup/kali-linux-setup.md)
+👉 [Follow the setup instructions]([https://github.com/c4ndypop/intro-to-kalilinux-ctf-workshop/blob/main/intro-to-ctf-kalilinux-slides.pdf)
 
 The setup guide covers the tools and configurations required for the workshop.
 
